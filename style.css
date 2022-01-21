@@ -12,7 +12,7 @@
 body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
-	background-image:url(images/backgrounds/subtle_white_mini_waves.png);
+	background-image:url(https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg);
 }
 
 header {
@@ -23,7 +23,7 @@ header {
 
 .logo {
   font-family: 'Roboto', cursive;
-  font-size: 72px;
+  font-size: 64px;
   color: #c5c0b8;
   text-align: center;
   letter-spacing: -3;
@@ -41,7 +41,7 @@ header h2 {
 
 footer {
 	background-color: #403933;
-	background-image:url(images/backgrounds/subtle_brown_mini_waves.png);
+	background-image:url(https://i.imgur.com/GoxS27D.jpeg);
 
 }
 
