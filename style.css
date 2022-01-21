@@ -12,35 +12,35 @@
 body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
-	background-image:url(https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg);
+	background-image:url(images/backgrounds/subtle_white_mini_waves.png);
 }
 
 header {
 	height: 140px;
-	background-color: #403933;
+	background-color: #779ecb;
 	background-image:url(https://i.imgur.com/GoxS27D.jpeg);
 }
 
 .logo {
-  font-family: 'Roboto', cursive;
-  font-size: 64px;
-  color: #c5c0b8;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 72px;
+  color: #008080;
   text-align: center;
   letter-spacing: -3;
-  margin: -5;
+  margin: 0;
   padding: 20px 0 0 0;
 }
 
 header h2 {
 	font-family: 'Montserrat', serif;
-	color: #e3e1dc;
+	color: #008080;
 	margin: 0px;
 	font-size: 18px;
 	text-align: center;
 }
 
 footer {
-	background-color: #403933;
+	background-color: #779ecb;
 	background-image:url(https://i.imgur.com/GoxS27D.jpeg);
 
 }
@@ -73,10 +73,10 @@ a {
 	font-weight: 700;
 	text-decoration: none;	
 }
-a:link { color: #38786a; }
-a:visited { color: #38786a; }
-a:hover { color: #403933; }
-a:active { color: #403933; }
+a:link { color: #2f4f4f; }
+a:visited { color: #2f4f4f; }
+a:hover { color: #779ecb; }
+a:active { color: #779ecb; }
 a:hover {
 	text-decoration: underline;	
 }
@@ -87,7 +87,7 @@ em {
 }
 
 footer p {
-	color: #fff;	
+	color: #2f4f4f;	
 	text-align: center;
   padding: 30px;
   margin: 0;
