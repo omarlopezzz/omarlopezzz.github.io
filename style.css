@@ -93,13 +93,6 @@ footer p {
   margin: 0;
 }
 
-/* -------  Elements ------- */
-
-img, iframe { 
-  width: 100%;	
-  border-radius: 8px;
-  border: 1px solid #c5c0b8;
-} 
 
 /* -------  Modifier styles ------- */
 
